@@ -1,0 +1,5 @@
+![2StageAmp](https://github.com/user-attachments/assets/2a394f87-9724-43aa-b913-cb19a3fdf152)
+![NoLoad](https://github.com/user-attachments/assets/f60c2e3e-11ba-4b6b-8be5-30b7e88cd60f)
+![WaveformNoLoad](https://github.com/user-attachments/assets/78f528ba-5521-4fb0-8c4b-4514a5273060)
+![Load](https://github.com/user-attachments/assets/471cf84d-068d-42f1-a71e-2bc12851546d)
+![WithLoad](https://github.com/user-attachments/assets/7778ba2f-7d8f-46a2-b2ec-39227ec26742)
